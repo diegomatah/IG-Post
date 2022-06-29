@@ -1,0 +1,51 @@
+body {
+    background-color: black;
+    padding-top: 100px;
+}
+.post{
+    font-family: 'Roboto', sans-serif;
+    margin-left: 235px;
+    margin-bottom: 100px;
+    margin-top: 300px;
+}
+.header{
+    padding: 5px 20px 5px 20px;
+    width: 1360px;
+    background-color: white;
+}
+.header p{
+    font-size: 25px;
+    margin-left: 52px;
+    margin-top: -75px;
+}
+.fa-brands{
+    margin-right: 15px;
+    font-size: 50px;
+}
+.fa-solid{
+    float: right;
+    margin-right: 40px;
+     font-size: 50px;
+}
+.fa-bookmark{
+    float: right;
+    margin-right: 40px;
+}
+.fa-heart{
+    margin-right: 5px;
+}
+.fa-comment{
+    margin-right: 5px;
+}
+.icons{
+    padding: 10px 20px 5px 20px;
+    width: 1360px;
+    background-color: white;
+    font-size: 30px;
+    margin-top: -5px;
+}
+.footer{
+    padding: 5px 20px 5px 20px;
+    width: 1360px;
+    background-color: white;
+}
